@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hell-herring)](https://github.com/hell-herring)
--->
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,php,cs,dotnet,ts,js,aws,azure)](https://github.com/hell-herring)
+
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hell-herring&layout=compact)](https://github.com/hell-herring)
